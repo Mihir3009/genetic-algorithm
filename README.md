@@ -6,4 +6,4 @@ Genetic Algorithm (GA) uses a process of evolution and naturalselection theory t
 ### Setup Environment
 
 Markup : 1. python3.6
-Reference to download and install : https://www.python.org/downloads/release/python-360/
+            Reference to download and install : https://www.python.org/downloads/release/python-360/
