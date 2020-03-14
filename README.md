@@ -15,7 +15,7 @@ $ git clone https://github.com/Mihir3009/genetic-algorithm.git
 1. python3.6 <br /> Reference to download and install : https://www.python.org/downloads/release/python-360/
 2. Install requirements <br /> 
 ```
-> pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 ```
 
 ## Run the GA
@@ -47,3 +47,6 @@ $ python3 genetic_model.py --generation= # of generation (int)
 --Initial_z= initialize z parameter (float) 
 --output_dir= path of output directory (String)
 ```
+
+## Working of the GA
+To understand the algorithm, please visit 
