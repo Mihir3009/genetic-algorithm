@@ -49,4 +49,4 @@ $ python3 genetic_model.py --generation= # of generation (int)
 ```
 
 ## Working of the GA
-To understand the algorithm, please visit 
+To understand the algorithm, please visit my blog ["Genetic Algorithms: Biologically-Inspired Deep Learning Optimization"](https://medium.com/ml-brew/genetic-algorithms-biologically-inspired-deep-learning-optimization-e4125e04053).
